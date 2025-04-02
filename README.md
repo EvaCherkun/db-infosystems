@@ -6,6 +6,8 @@
 
 # Звіт з лабораторної роботи
 
-**SQL-код** з запитами можна знайти у файлі [script.sql](https://github.com/EvaCherkun/db-infosystems/blob/lab4/lab4.sql).
+**SQL-код** з запитами можна знайти у файлі [lab4.sql](https://github.com/EvaCherkun/db-infosystems/blob/lab4/lab4.sql).
+
+**Діаграма бази даних** Для візуалізації структури бази даних було оновлено ER-діаграму з lab2, яка відображає основні таблиці та їх взаємозв'язки, включаючи таблиці для замовлень, аналізів, пацієнтів, лікарів, техніків та логування змін у статусах замовлень [er_diagram(updated).pdf](https://github.com/EvaCherkun/db-infosystems/blob/lab4/er_diagram(updated).pdf).
 
 **Хід роботи** виконаної роботи доступні у файлі [ЗВІТ№4_ДБ.pdf](https://github.com/EvaCherkun/db-infosystems/blob/lab4/%D0%97%D0%92%D0%86%D0%A2%E2%84%964_%D0%94%D0%91.pdf).
